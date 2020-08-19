@@ -1,0 +1,22 @@
+{
+  "name": "can-run-javascript",
+  "version": "1.0.0",
+  "description": "Check whether you can run javascript with this script",
+  "main": "can-run-javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james10424/can-run-javascript.git"
+  },
+  "keywords": [
+    "run"
+  ],
+  "author": "James Zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/james10424/can-run-javascript/issues"
+  },
+  "homepage": "https://github.com/james10424/can-run-javascript#readme"
+}
