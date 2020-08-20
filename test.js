@@ -1,6 +1,3 @@
-Check whether you can run javascript with this script.
-
-```javascript
 const canRunJavascript = require("./can-run-javascript");
 if (canRunJavascript()) {
     // your computer can run javascript
@@ -12,4 +9,3 @@ else {
     console.log("Your computer does not seem to support javascript." +
                 "Please install/reinstall javascript");
 }
-```
