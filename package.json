@@ -1,6 +1,6 @@
 {
   "name": "can-run-javascript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check whether you can run javascript with this script",
   "main": "can-run-javascript.js",
   "scripts": {
